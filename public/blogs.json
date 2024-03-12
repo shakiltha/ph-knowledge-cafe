@@ -1,0 +1,56 @@
+[
+  {
+    "id": "12345",
+    "cover": "https://i.ibb.co/hCNVzz9/businessman-working-tablet.jpg",
+    "title": "The Secret of the Silver Mountains",
+    "author": "Eleanor Greenwood",
+    "author_img": "https://i.ibb.co/FW3BVQp/profile1.png",
+    "posted_date": "2024-03-10",
+    "reading_time": 45,
+    "hashtags": ["adventure", "mystery", "fiction"]
+  },
+
+  {
+    "id": "23456",
+    "cover": "https://i.ibb.co/mFWhDNx/successful-computer-gadget-digital-close.jpg",
+    "title": "Echoes in the Mist",
+    "author": "Jonathan Blackwood",
+    "author_img": "https://i.ibb.co/QpTqrST/profile2.png",
+    "posted_date": "2024-03-09",
+    "reading_time": 55,
+    "hashtags": ["fantasy", "magic", "adventure"]
+  },
+
+  {
+    "id": "34567",
+    "cover": "https://i.ibb.co/gZtc3fb/aerial-view-businessman-using-computer-laptop.jpg",
+    "title": "Beyond the Horizon",
+    "author": "Amelia West",
+    "author_img": "https://i.ibb.co/pxFGL48/profile3.png",
+    "posted_date": "2024-03-08",
+    "reading_time": 60,
+    "hashtags": ["sciencefiction", "space", "exploration"]
+  },
+
+  {
+    "id": "45678",
+    "cover": "https://i.ibb.co/kM0TXRs/business-women-signature-document.jpg",
+    "title": "The Enigma of Eternity",
+    "author": "Nathaniel Stone",
+    "author_img": "https://i.ibb.co/QpTqrST/profile2.png",
+    "posted_date": "2024-03-07",
+    "reading_time": 50,
+    "hashtags": ["mystery", "thriller", "suspense"]
+  },
+
+  {
+    "id": "56789",
+    "cover": "https://i.ibb.co/YyGS3NH/rear-view-businesswoman-working-home-office.jpg",
+    "title": "Whispers in the Dark",
+    "author": "Olivia Rivers",
+    "author_img": "https://i.ibb.co/FW3BVQp/profile1.png",
+    "posted_date": "2024-03-06",
+    "reading_time": 40,
+    "hashtags": ["horror", "supernatural", "ghosts"]
+  }
+]

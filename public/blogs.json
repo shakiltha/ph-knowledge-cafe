@@ -1,6 +1,6 @@
 [
   {
-    "id": "12345",
+    "id": 1,
     "cover": "https://i.ibb.co/hCNVzz9/businessman-working-tablet.jpg",
     "title": "The Secret of the Silver Mountains",
     "author": "Eleanor Greenwood",
@@ -11,7 +11,7 @@
   },
 
   {
-    "id": "23456",
+    "id": 2,
     "cover": "https://i.ibb.co/mFWhDNx/successful-computer-gadget-digital-close.jpg",
     "title": "Echoes in the Mist",
     "author": "Jonathan Blackwood",
@@ -22,7 +22,7 @@
   },
 
   {
-    "id": "34567",
+    "id": 3,
     "cover": "https://i.ibb.co/gZtc3fb/aerial-view-businessman-using-computer-laptop.jpg",
     "title": "Beyond the Horizon",
     "author": "Amelia West",
@@ -33,7 +33,7 @@
   },
 
   {
-    "id": "45678",
+    "id": 4,
     "cover": "https://i.ibb.co/kM0TXRs/business-women-signature-document.jpg",
     "title": "The Enigma of Eternity",
     "author": "Nathaniel Stone",
@@ -44,7 +44,7 @@
   },
 
   {
-    "id": "56789",
+    "id": 5,
     "cover": "https://i.ibb.co/YyGS3NH/rear-view-businesswoman-working-home-office.jpg",
     "title": "Whispers in the Dark",
     "author": "Olivia Rivers",
